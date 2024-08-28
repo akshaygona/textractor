@@ -3,7 +3,6 @@ The code in this repository extracts text from pdf/picture/scanned documents usi
 
 OCR (Optical Character Recognition) technique: used to identify words in a picture/scanned document and convert it into machine-readable text, that can be processed further. Although the technology is mature and uses advanced techniques, it can often produces an output that is incorrect or ridden with irrelevant pieces.
 
-This repo contains the code for BYOB Challenge: OCR De-noising.
 ## Steps to run the program:
 
    1. Clone the repository using:

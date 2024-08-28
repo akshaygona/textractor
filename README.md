@@ -1,4 +1,4 @@
-# pdf2text
+# tExtractor
 The code in this repository extracts text from pdf/picture/scanned documents using the following methods.
 
 OCR (Optical Character Recognition) technique: used to identify words in a picture/scanned document and convert it into machine-readable text, that can be processed further. Although the technology is mature and uses advanced techniques, it can often produces an output that is incorrect or ridden with irrelevant pieces.

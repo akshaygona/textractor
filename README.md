@@ -22,8 +22,3 @@ This repo contains the code for BYOB Challenge: OCR De-noising.
  # Results
  * Localized text proposals on a pdf.
  * Bounding box co-ordinates can be found in data/results/*.txt .
-
-
-
-   
-# textractor
